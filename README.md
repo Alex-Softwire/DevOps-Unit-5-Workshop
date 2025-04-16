@@ -47,3 +47,5 @@ In the afternoon we'll be exploring another CI tool/platform, Azure DevOps (ADO)
 
 - [Azure DevOps instructions](azure_devops.md)
 
+![CI](https://github.com/Alex-Softwire/DevOps-Unit-5-Workshop/actions/workflows/ci.yaml/badge.svg?branch=main)
+
