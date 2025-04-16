@@ -14,7 +14,7 @@ namespace DotnetTemplate.Web.Tests.ViewModels.Home
             {
                 "Second Page Item 1",
                 "Second Page Item 2",
-                "Second Page Item 3"
+                "Second Page Item 4"
             };
 
             // When
